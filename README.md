@@ -17,7 +17,7 @@ The following files are included in this project:
 2. `style.css`: The custom CSS file for styling the website.
 3. `simplyCountdown.min.js`: The JavaScript file for the countdown timer.
 4. `simplyCountdown.theme.default.css`: The CSS file for the countdown timer.
-5. Images: The invitation images used in the project (`background.jpg`, `mempelai1.png`, `mempelai2.png`, `png`).
+5. Images: The invitation images used in the project (`background.jpg`, `mempelai1.png`, `mempelai2.png`, `bg.png`).
 6. Icons: Bootstrap Icons for additional styling (`bootstrap-icons.css`).
 
 ## Setup
